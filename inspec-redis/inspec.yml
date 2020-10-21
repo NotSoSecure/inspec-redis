@@ -1,0 +1,8 @@
+name: Inspec-Redis
+title: Inspec Profile for Redis custom compliance 
+summary: A Chef InSpec profile for running a set of compliance checks on a Redis Server
+maintainer: NotSoSecure
+copyright: Copyright (C) 2019 NotSoSecure
+version: 1.0.0(Beta)
+
+
