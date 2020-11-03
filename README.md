@@ -1,4 +1,7 @@
-# README 
+## Let’s Cook ‘Compliance as Code’ with Chef InSpec
+
+Supporting code base for the below blogpost
+https://notsosecure.com/lets-cook-compliance-as-code-with-chef-inspec/
 
 Below are the instructions to setup the Redis Docker container and running Inspec. 
 
